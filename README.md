@@ -1,5 +1,5 @@
 ## Pytorch_Study
-파이토치 첫걸음 코드학습 
+use a book named '파이토치 첫걸음'
 ### Ch1.What is DeepLearning?
 ### Ch2.PyTorch
 ### Ch3.Linear Regression Analysis
