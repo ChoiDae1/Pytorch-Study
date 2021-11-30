@@ -1,8 +1,8 @@
 ## Pytorch_Study
-use a book named '파이토치 첫걸음'   
-Ch1-Ch2 don't include codes.
-</br> Ch3-Ch5 are implemented in jupyter notebook named Ch3-Ch5.ipynb.
+use a book named _**'파이토치 첫걸음'**_  
+Ch1,Ch2 don't include codes.
 </br> The rest of the chapters are implemented in jupyter notebook named chapter name.
+</br> File named practice is a file practiced based on what I learned from the this book.
 ### Ch1.What is DeepLearning?
 - Concept of DeepLearning.
 ### Ch2.PyTorch
