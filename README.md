@@ -1,5 +1,6 @@
 ## Pytorch_Study
-use a book named _**'파이토치 첫걸음'**_  
+By studying a book named _**'파이토치 첫걸음'**_, I organized what I learned about PyTorch in this repertoire.  
+
 Ch1,Ch2 don't include codes.
 </br> The rest of the chapters are implemented in jupyter notebook named chapter name.
 </br> File named practice is a file practiced based on what I learned from the this book.
