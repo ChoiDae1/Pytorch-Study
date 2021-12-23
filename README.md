@@ -18,7 +18,7 @@ Ch1,Ch2 don't include codes. So there are no files about this chapters.
 ### Ch5.CNN -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch5.ipynb)
 - implement CNN ,then classify MNIST images.
 - implement famous vision models. (VGGNet, GoogLeNet, ResNet)
-### Ch6.RNN
+### Ch6.RNN -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch6.ipynb)
 ### Ch7.Problems and solutions that can arise during learning
 ### Ch8.Neural style Transformer
 ### Ch9.Auto Encoder
