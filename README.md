@@ -22,6 +22,8 @@ Ch1,Ch2 don't include codes. So there are no files about this chapters.
 - implement Simple RNN, LSTM, then test these model through tinyshakespeare data.
 - implement embedding
 ### Ch7.Problems and solutions that can arise during learning
+- Concept of overfitting and underfiting
+- Implement method to prevent overfittig -> Regularization, Dropout, Data Augmentation, Weight Initialization, Learning rate, normalization, BatchNorm, optimizer
 ### Ch8.Neural style Transformer
 ### Ch9.Auto Encoder
 ### Ch10.GAN
