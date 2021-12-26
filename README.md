@@ -25,6 +25,8 @@ Ch1,Ch2 don't include codes. So there are no files about this chapters.
 - Concept of overfitting and underfiting
 - Implement methods to prevent overfittig -> Regularization, Dropout, Data Augmentation, Weight Initialization, 
   Learning rate, normalization, BatchNorm, optimizer
-### Ch8.Neural style Transformer
+### Ch8.Neural style Transformer -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch8.ipynb)
+- Concept of Transfer Learning and Style Transfomer
+- implement the Style Transfomer
 ### Ch9.Auto Encoder
 ### Ch10.GAN
