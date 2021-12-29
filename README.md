@@ -28,5 +28,7 @@ Ch1,Ch2 don't include codes. So there are no files about this chapters.
 ### Ch8.Neural style Transfer -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch8.ipynb)
 - Concept of Transfer Learning and Style Transfer
 - implement the Style Transfer
-### Ch9.Auto Encoder
+### Ch9.Auto Encoder -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch9.ipynb)
+- implement the Auto Encoder(simple version, convolution version)
+- implement UNet for semantic segmentation
 ### Ch10.GAN
