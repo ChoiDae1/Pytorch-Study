@@ -20,15 +20,18 @@ Ch1,Ch2 don't include codes. So there are no files about this chapters.
 - implement famous vision models. (VGGNet, GoogLeNet, ResNet)
 ### Ch6.RNN -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch6.ipynb)
 - implement Simple RNN, LSTM, then test these model through tinyshakespeare data.
-- implement embedding
+- implement embedding.
 ### Ch7.Problems and solutions that can arise during learning -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch7.ipynb)
-- Concept of overfitting and underfiting
+- Concept of overfitting and underfiting.
 - Implement methods to prevent overfittig -> Regularization, Dropout, Data Augmentation, Weight Initialization, 
   Learning rate, normalization, BatchNorm, optimizer
 ### Ch8.Neural style Transfer -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch8.ipynb)
-- Concept of Transfer Learning and Style Transfer
-- implement the Style Transfer
+- Concept of Transfer Learning and Style Transfer.
+- implement the Style Transfer.
 ### Ch9.Auto Encoder -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch9.ipynb)
-- implement the Auto Encoder(simple version, convolution version)
-- implement UNet for semantic segmentation
-### Ch10.GAN
+- implement the Auto Encoder.(simple version, convolution version)
+- implement UNet for semantic segmentation.
+### Ch10.GAN -> [code link](https://github.com/ChoiDae1/Pytorch_Study/blob/main/Ch10.ipynb)
+- Concept of GAN.
+- implement the basic GAN using MNIST images.
+- implement DCGAN using MNIST images.
