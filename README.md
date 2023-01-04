@@ -1,4 +1,4 @@
-## Pytorch_Study
+## Pytorch-Study
 By studying a book named _**'파이토치 첫걸음'**_, I organized what I learned about PyTorch in this repository.  
 
 Ch1,Ch2 don't include codes. So there are no files about this chapters.
